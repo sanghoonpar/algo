@@ -1,5 +1,2 @@
 N,X = map( int, (input().split()))
 A = list(map(int, input().split()))
-x=print(A)
-a=X>int(x)
-print(a)
