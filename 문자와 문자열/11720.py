@@ -1,4 +1,4 @@
-count = int(input())
+N = int(input())
 a = int(input())
 sum = 0
 while a != 0:
